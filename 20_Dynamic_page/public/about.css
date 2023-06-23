@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+h1{
+    color: red;
+}
