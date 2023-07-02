@@ -19,7 +19,7 @@ app.post("/", (req, res) => {
     // password: "3030",
     // user_type: "visitor",
 
-    var data="INSER INTO user (id,name, password, user_type) VALUES (2,'bhaskar','3030', 'visitor')"
+    var data="INSERT INTO users (id,name, password, user_type) VALUES (2,'bhaskar','3030', 'visitor')"
 
     
 
